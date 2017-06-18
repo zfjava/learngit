@@ -2,4 +2,5 @@ add test filed
 alreday go github
 current man
 anther man
+add info
 
